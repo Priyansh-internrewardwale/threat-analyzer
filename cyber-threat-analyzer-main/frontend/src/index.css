@@ -1,0 +1,4 @@
+/* Global CSS styles for the dashboard UI */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

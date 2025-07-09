@@ -1,0 +1,9 @@
+flask
+flask_sqlalchemy
+flask_cors
+joblib
+scikit-learn
+pandas
+numpy
+pytest==8.4.1
+requests
